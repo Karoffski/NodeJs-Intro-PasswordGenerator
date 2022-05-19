@@ -1,0 +1,15 @@
+{
+  "name": "password-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "my_wonderful_program.js",
+  "scripts": {
+    "test": "$echo 'Loading...' && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clipboardy": "^3.0.0"
+  },
+  "type": "module"
+}
